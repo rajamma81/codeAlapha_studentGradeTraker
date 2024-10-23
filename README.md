@@ -44,5 +44,6 @@ Allowing the teacher to input names for each student, which would let you print 
 
 //output
 
-![t1](https://github.com/user-attachments/assets/de2629ec-0e7f-43f3-aab4-d1f870d98921)
+![t1](https://github.com/user-attachments/assets/78700386-edfe-4310-8ad5-233ff5d2ba2c)
+
 
