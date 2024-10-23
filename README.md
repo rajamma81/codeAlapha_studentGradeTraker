@@ -42,4 +42,7 @@ You could improve the program by:
 Validating inputs (e.g., ensuring grades are within a valid range like 0-100).
 Allowing the teacher to input names for each student, which would let you print a detailed report.
 
+//output
+
+![t1](https://github.com/user-attachments/assets/de2629ec-0e7f-43f3-aab4-d1f870d98921)
 
